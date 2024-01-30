@@ -16,8 +16,8 @@ body, h1, p {
   
   .header {
     text-align: center;
-    background-color: #333;
-    color: #fff;
+    background-color: #3e3737;
+    color: #7b88bc;
     padding: 10px;
   }
   
@@ -26,14 +26,14 @@ body, h1, p {
   }
   
   .myClass {
-    border: 1px solid #ccc;
+    border: 1px solid #aea1a1;
     border-radius: 5px;
     padding: 10px;
     margin-bottom: 15px;
   }
   
   .myClass p {
-    color: #333;
+    color: #3e3737;
   }
   
   .footer {
@@ -41,5 +41,5 @@ body, h1, p {
     margin-top: 20px;
     padding: 10px;
     background-color: #333;
-    color: #fff;
+    color: #7b88bc;
   }
